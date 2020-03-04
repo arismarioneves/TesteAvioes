@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "TesteAvioes.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 3,5,0,20
+PRODUCTVERSION 3,5,0,20
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "041604E4"
+    {
+      VALUE "CompanyName", "Mari05liM"
+      VALUE "FileVersion", "3.5.0.20"
+      VALUE "FileDescription", "Teste de Aviões"
+      VALUE "InternalName", ""
+      VALUE "LegalCopyright", "Arismário Veríssimo Neves"
+      VALUE "LegalTrademarks", ""
+      VALUE "OriginalFilename", ""
+      VALUE "ProductName", "TesteAvioes"
+      VALUE "ProductVersion", "3.5.0.20"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0416, 1252
+  }
+}

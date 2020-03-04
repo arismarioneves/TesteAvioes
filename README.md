@@ -37,6 +37,8 @@ Uma empresa está necessitando desenvolver um programa para efetuar os testes no
 	-	Data do teste com dia, mês e ano (data coletada do computador – conteúdo de pesquisa);
 	-	Velocidade máxima conseguida no teste em quilômetros.
 
+- Mais detalhes no arquivo [Word](https://github.com/arismarioneves/TesteAvioes/blob/master/Arquivos/Projeto.doc).
+
 ### Biblioteca
 
 [`Conio.c`](https://github.com/arismarioneves/TesteAvioes/blob/master/Arquivos/conio.c)

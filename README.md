@@ -39,11 +39,11 @@ Uma empresa está necessitando desenvolver um programa para efetuar os testes no
 
 - Mais detalhes no arquivo [Word](https://github.com/arismarioneves/TesteAvioes/blob/master/Arquivos/Projeto.doc).
 
-### Biblioteca
+### Biblioteca :books:
 
 [`Conio.c`](https://github.com/arismarioneves/TesteAvioes/blob/master/Arquivos/conio.c)
 
-### IDE
+### IDE :computer:
 
 [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 

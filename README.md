@@ -51,7 +51,7 @@ Uma empresa está necessitando desenvolver um programa para efetuar os testes no
 
 [`Bibliotecas de funções C`](https://github.com/arismarioneves/TesteAvioes/blob/master/Arquivos/conio.c)
 
-### Reflita
+### Reflita :thought_balloon:
 
 > "Embora isso seja loucura, ainda há 'metódo' nela".
 
